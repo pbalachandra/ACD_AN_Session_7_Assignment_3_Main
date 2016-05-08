@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Insert BLOB Data in SQLite</string>
+    <string name="emp_name">Employee Name : </string>
+    <string name="emp_age">Employee Age : </string>
+    <string name="emp_photo">Employee Photo</string>
+    <string name="default_emp">SACHIN</string>
+    <string name="default_age">42</string>
+</resources>
